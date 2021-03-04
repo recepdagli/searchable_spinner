@@ -2,7 +2,7 @@
 
 A simple searchable spinner for flutter (android and ios compatible)
 - copy searchable_spinner.dart file on your project
-- add this ```import 'package:<your package name>/searchable_spinner.dart';```
+- import package ```import 'package:<your package name>/searchable_spinner.dart';```
 - define your required variables like this (list type must be String)
 ```
 //sample list
